@@ -1,0 +1,232 @@
+* {
+  margin: 3px;
+  height: 100%;
+  width: 100%;
+}
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #f8eac6;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: center;
+  row-gap: 10px;
+  column-gap: 30px;
+}
+.bloco-1 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+.bloco-2 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+.bloco-3 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+.bloco-4 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+.bloco-5 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+.bloco-6 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+.bloco-7 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+.bloco-8 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+.bloco-9 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+.bloco-10 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+.bloco-11 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+
+.bloco-12 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+
+.bloco-13 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+
+.bloco-14 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+
+.bloco-15 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+
+.bloco-16 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+
+.bloco-17 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+
+.bloco-18 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+
+.bloco-19 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
+
+.bloco-20 {
+  /* indiferente: */
+  background-color: #d8bfd8;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+}
